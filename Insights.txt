@@ -1,0 +1,9 @@
+Insights:
+
+Sales Trend: Sales show a clear peak in [November - 2014], indicating strong seasonal demand.
+
+Regional Performance: The [West] region contributed the highest sales overall, while [South] lagged behind.
+
+Category Distribution: [Technology] dominated sales, accounting for the largest share, while [Office Supplies] had minimal contribution.
+
+Profitability: Some months show negative profit, suggesting discounts or losses in certain product lines.
